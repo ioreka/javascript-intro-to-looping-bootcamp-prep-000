@@ -9,3 +9,6 @@ if (i === 1) {
 return array;
 }
 
+function whileLoop(num) {
+  let cou
+}
