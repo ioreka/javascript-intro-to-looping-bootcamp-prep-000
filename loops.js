@@ -10,5 +10,6 @@ return array;
 }
 
 function whileLoop(num) {
-  let cou
+  while (num > 0) {
+    console log
 }
