@@ -7,7 +7,7 @@ if (i === 1) {
 }
 }
 return array;
-}
+
 
 function whileLoop(num) {
   while (num > 0) {
